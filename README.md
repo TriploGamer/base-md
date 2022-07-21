@@ -27,7 +27,7 @@ em contato comigo
            
 [📗 Baixar Script Do base-md ( Clique ) 🗡️](https://www.mediafire.com/download/pgo32wg5b04bagi)
 
-[🗡️ Baixar Termux 117 ( Clique ) 📗](https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
+[🗡️ Baixar Termux 117 ( Clique ) 📗](https://www.mediafire.com/download/cp2pfgs8w5rgpl7)
 
 [📗 Baixar MT Manager ( Clique ) 🗡️](https://www.mediafire.com/file/0vm0v0qcfvjq2u6/MT+Manager_2.10.4-beta.apk/file)
 
