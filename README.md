@@ -1,24 +1,23 @@
-# BASE-MD
+# TESTE
+<p align="left">
+<a href="#"><img src="https://blog.betrybe.com/wp-content/uploads/2021/01/image-31-1024x579.png" alt="logo" width="720"></a>
+</p>
 
-<p align="center">
-<a href="https://ibb.co/hsVVn7Z"><img src="https://telegra.ph/file/364646f2ec7f875ad9d44.jpg" alt="logo" border="0"></a>
+<p>Paragrafo</p>
 
-<h5>
-Base-md uma base multi-device 100% editável
-feita por JerfinhoPro
-</h5>
-<h5>
+[Link](https://youtube.com)
 
-[Meu Canal ( Clique )](https://youtube.com/channel/UC6Nvd3QgM0j1_ebNF4OC84g)
-           
-[Baixar Script Do base-md ( Clique )](https://www.mediafire.com/download/lq9ffq4jnmh5xl8)
+`
+teste
+`
 
-[Baixar comandos Do base-md ( Clique )](https://www.mediafire.com/download/qqos1k7wve3wm7p)
+```
+teste
+```
 
-[Baixar Termux 117 ( Clique )](https://www.mediafire.com/download/cp2pfgs8w5rgpl7)
+- Teste
+- *teste*
 
-[Baixar MT Manager ( Clique )](https://www.mediafire.com/file/0vm0v0qcfvjq2u6/MT+Manager_2.10.4-beta.apk/file)
+Teste
 
-[Baixar Acode Pro ( Clique )](https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
-
-</h5>
+![teste](https://blog.betrybe.com/wp-content/uploads/2021/01/image-31-1024x579.png)
